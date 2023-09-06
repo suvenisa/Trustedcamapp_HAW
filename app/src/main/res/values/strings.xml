@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Trusted Cam App</string>
+
+    <string name="device_rooted_text">Device is rooted!</string>
+    <string name="device_not_rooted_text">Device is not rooted!</string>
+    <string name="emulator_used_text">This app is running on an emulator.</string>
+    <string name="no_emulator_used_text">This app is not running on an emulator.</string>
+    <string name="result_text">Result Text</string>
+    <string name="frida_detected_text">Frida Detected!</string>
+    <string name="frida_not_detected_text">Frida not Detected!</string>
+    <string name="fridaserver_detected_text">Frida Server Detected!</string>
+    <string name="fridaserver_not_detected_text">Frida Server not Detected!</string>
+    <string name="debugger_connected_text">Debugger  Connected!</string>
+    <string name="debugger_not_connected_text">Debugger not Connected!</string>
+    <string name="magisk_detected_text">Magisk Detected!</string>
+    <string name="magisk_not_detected_text">Magisk not Detected!</string>
+    <string name="btn_check">Check</string>
+    <string name="button_check_fingerprint">Check Fingerprint</string>
+    <string name="default_fingerprint">Fingerprint not available</string>
+    <!-- In strings.xml -->
+    <string name="balance_text">Blockchain Balance: %s</string>
+
+</resources>

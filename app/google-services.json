@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "685612261772",
+    "project_id": "blockchain-1f389",
+    "storage_bucket": "blockchain-1f389.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685612261772:android:5de3b008dad82c8ad176a9",
+        "android_client_info": {
+          "package_name": "com.dh.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685612261772-ilnsuo1itmhls17kvq0jj9sgvn1f873e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeqSVhSOcaLfD034BA4wQVk7-TtX-SY_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685612261772-ilnsuo1itmhls17kvq0jj9sgvn1f873e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
