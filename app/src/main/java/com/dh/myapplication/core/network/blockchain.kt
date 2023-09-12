@@ -32,7 +32,7 @@ class Blockchain {
             return balanceResult.balance
         }
     // Function to transfer Ethereum from one address to another
-    @RequiresApi(Build.VERSION_CODES.N)
+   /* @RequiresApi(Build.VERSION_CODES.N)
     fun transfer(
         fromAddress: String,
         toAddress: String,
@@ -62,7 +62,7 @@ class Blockchain {
         val receipt = web3j.ethGetTransactionReceipt(transactionHash).send().transactionReceipt
         return receipt.orElse(null)
     }
-
+*/
     // Suspended function to transfer Ethereum with a callback for receipt
     @RequiresApi(Build.VERSION_CODES.N)
     suspend fun transfer2(
